@@ -55,7 +55,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 /* ================================= typed js  =====================================*/
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Magento 2 Developer', 'Laravel Developer', 'Full Stack Developer'],
+    strings: ['Magento 2 Entwickler', 'Laravel Entwickler', 'Full-Stack Entwickler'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
