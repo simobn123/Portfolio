@@ -316,7 +316,7 @@ span{
 .footer-text p{
    font-size: 1.6rem;
 }
-.footer-iconTop a {
+.footer-icon a {
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -325,10 +325,10 @@ span{
     border-radius: .8rem;
     transition: .5s ease;
 }
-.footer-iconTop a:hover{
+.footer-icon a:hover{
     box-shadow: 0 0  1rem var(--main-color);
 }
-.footer-iconTop a i{
+.footer-icon a i{
     font-size: 2.4rem;
     color: var(--second-bg-color);
 }
